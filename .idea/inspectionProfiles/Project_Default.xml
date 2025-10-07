@@ -1,0 +1,24 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="pytest" />
+          <option value="pytest-cov" />
+          <option value="ruff" />
+          <option value="black" />
+          <option value="pre-commit" />
+          <option value="pytesseract" />
+          <option value="opencv-python" />
+          <option value="spacy" />
+          <option value="nltk" />
+          <option value="textblob" />
+          <option value="transformers" />
+          <option value="torch" />
+          <option value="openpyxl" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
